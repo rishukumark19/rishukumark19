@@ -1,4 +1,10 @@
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishukumark19&show_icons=true&theme=onedark&hide_border=true" alt="Rishu's GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishukumark19&theme=onedark&hide_border=true" alt="Rishu's GitHub Streak" height="150" />
+</p>
+
+# 🚀 Rishu Kumar — Developer Portfolio
+<p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
