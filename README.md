@@ -14,7 +14,7 @@ This project embodies the **"less JavaScript, more HTML"** philosophy.
 ## ✨ Live Demo & Experience
 The best way to see the magic is to check it out live!
 
-👉 **[rishukumark19.github.io](https://rishukumark19.github.io)**
+👉 **[rishukumark19.github.io](https://rishukumar.is-a.dev)**
 *Hosted via GitHub Pages*
 
 | Feature Spotlight | Description |
