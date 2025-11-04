@@ -5,32 +5,18 @@
 
 # 🚀 Rishu Kumar — Developer Portfolio
 
-A fast, interactive, and fully responsive personal portfolio showcasing my journey into **Python Backend Development** (FastAPI, Django) and building **modern, lightweight UIs** with **HTMX** and **Tailwind CSS**.
+Hi there! I'm Rishu, a backend-focused developer with a passion for building efficient, scalable systems and clean, modern user interfaces. I thrive on turning complex problems into elegant solutions using Python, and I'm always exploring ways to enhance user experience with lightweight tools like HTMX and Tailwind CSS.
 
-This project embodies the **"less JavaScript, more HTML"** philosophy.
-
----
-
-## ✨ Live Demo & Experience
-The best way to see the magic is to check it out live!
-
-👉 **[rishukumar.is-a.dev](https://rishukumar.is-a.dev)**
-*Hosted via GitHub Pages*
-
-| Feature Spotlight | Description |
-| :--- | :--- |
-| **Glass Morphism** | Subtle, frosted card effects that change seamlessly between light and dark modes. |
-| **Interactivity** | **HTMX** powers the expandable project cards, providing a modern, rich user experience without heavy JS dependencies. |
-| **Tilt Effect** | Micro-interactions on key cards (hover over the main card!) to add a polished feel. |
-| **Breathing Glow** | The **dark mode** background features a subtle, slow animation for a dynamic, deep-space feel. |
+- 🔭 I’m currently building robust backends with **Django** and **FastAPI**.
+- 🌱 I’m exploring the depths of **AI/ML integration** and **cloud-native deployment** on GCP.
+- 👯 I’m looking to collaborate on open-source Python projects.
+- 💬 Ask me about **workflow automation**, **prompt engineering**, or anything related to the Python ecosystem!
+- 📫 How to reach me: [rishukumar.work@gmail.com](mailto:rishukumar.work@gmail.com)
+- ✨ Check out my work: **[rishukumar.is-a.dev](https://rishukumar.is-a.dev)**
 
 ---
 
-## 🛠️ Stack & Philosophy
-
-This portfolio is a single, self-contained file (`index.html`) demonstrating proficiency with a modern, *utility-first* approach to web development.
-
-### Primary Toolset
+## 🛠️ My Tech Stack
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -40,14 +26,15 @@ This portfolio is a single, self-contained file (`index.html`) demonstrating pro
   <img alt="HTMX" src="https://img.shields.io/badge/HTMX-3498DB?style=for-the-badge&logo=htmx&logoColor=white"/>
 </p>
 
-### Core Learning Areas Showcased:
-
-*   **Python Backend Ecosystem:** FastAPI, Django, Pydantic.
-*   **Modern Frontend:** Mastering Tailwind CSS for production-ready design.
-*   **Workflow:** Automation, AI/Prompt Engineering, Git/GitHub.
-*   **Creative:** Video editing and motion graphics (DaVinci Resolve).
+| Backend | Frontend & Design | Databases | Tools & Platforms |
+| :--- | :--- | :--- | :--- |
+| Django (MVT, ORM) | Tailwind CSS | SQLite | Git & GitHub |
+| FastAPI (REST APIs) | HTMX | Relational Design | Google Cloud (GCP) |
+| Pydantic | Responsive UI/UX | Schema Management | Python `venv` |
+| API Development | DaVinci Resolve | Migrations | AI & Prompt Engineering |
 
 ---
+
 
 ## 🎓 Education
 
@@ -58,26 +45,6 @@ B.Tech in Electronics and Communication Engineering
 **GGCET St. Xavier's, Dhanbad**  
 - Class XII: 95% (2019-2021)
 - Class X: 85.4% (2017-2019)
-
----
-
-## 🛠️ Technical Skills
-
-### Backend Development
-- **Django:** MVT architecture, Function-Based Views (FBVs), Class-Based Views (CBVs)
-- **API Development:** FastAPI, RESTful services
-- **ORM:** Django Models, complex database schemas, relationships
-- **Database:** SQLite, migrations, schema management, relational design
-
-### Frontend & Design
-- **Frameworks:** Tailwind CSS, HTMX
-- **Web Development:** Responsive design, user-friendly interfaces
-
-### Tools & Technologies
-- **Version Control:** Git, GitHub (source control and collaboration)
-- **Cloud & Deployment:** Google Cloud Platform (GCP)
-- **Environment Management:** Python venv for isolated environments
-- **AI & Automation:** Prompt Engineering, AI-driven solutions
 
 ---
 
@@ -103,10 +70,10 @@ B.Tech in Electronics and Communication Engineering
 
 ## 🌟 Extracurricular & Personal Interests
 
-*   **Automation & AI:** Passionate about AI-driven solutions, workflow automation, and prompt engineering.
-*   **Social Service:** Organized awareness drives and social initiatives as an NSS Volunteer.
-*   **Creative Skills:** Proficient in DaVinci Resolve, Adobe Premiere Pro, and After Effects for video editing and motion graphics.
-*   **Fitness & Sports:** Enthusiastic about gym training, volleyball, and endurance activities.
+*   **Automation & AI:** Building intelligent tools and automating workflows.
+*   **Social Service:** Organizing community initiatives as an NSS Volunteer.
+*   **Creative Media:** Videography and motion graphics with DaVinci Resolve & Adobe Suite.
+*   **Fitness & Sports:** Gym training, volleyball, and endurance activities.
 
 ---
 
