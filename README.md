@@ -34,7 +34,7 @@ Hi there! I'm Rishu, a backend-focused developer with a passion for building eff
 | API Development | DaVinci Resolve | Migrations | AI & Prompt Engineering |
 
 ---
-
+<!--education-->
 
 ## 🎓 Education
 
