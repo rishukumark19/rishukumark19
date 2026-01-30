@@ -62,9 +62,7 @@ B.Tech in Electronics and Communication Engineering
 - Assisted businesses in enhancing digital presence, achieving a 40% boost in social media reach.
 - Optimized engagement through tailored strategies.
 
-### Django Web Applications
-- Developed and deployed three distinct web applications using Django's MVT architecture.
-- Implemented clean URL structures and built relational database designs.
+
 
 ---
 
